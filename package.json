@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "emaily",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saipraneethkurmelkar/Emaily.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saipraneethkurmelkar/Emaily/issues"
+  },
+  "homepage": "https://github.com/saipraneethkurmelkar/Emaily#readme"
+}
